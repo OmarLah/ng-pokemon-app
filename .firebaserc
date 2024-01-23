@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "ng-pokemon-newapp",
+    "pokemon": "ng-pokemon-application",
+    "pokemon-new": "ng-pokemon-newapp"
+  },
+  "targets": {},
+  "etags": {}
+}
