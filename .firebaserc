@@ -1,7 +1,7 @@
 {
   "projects": {
-    "default": "ng-pokemon-newapp",
-    "pokemon": "ng-pokemon-application",
+    "default": "angular-pokemon-application",
+    "pokemon": "angular-pokemon-application",
     "pokemon-new": "ng-pokemon-newapp"
   },
   "targets": {},
